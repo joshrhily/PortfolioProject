@@ -17,7 +17,7 @@
 }
 
 body {
-  background-image: radial-gradient(#3E5824, #36573B);
+  background: radial-gradient(#000000, #27272a);
 }
 
 @layer utilities {

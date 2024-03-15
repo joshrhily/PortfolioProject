@@ -1,9 +1,9 @@
 const Navbar = () => {
   return (
-    <div className="flex flex-col text-cyan-600">
-      <h1>~ Test Conent #1 ~</h1>
-      <h1>~ Test Conent #2 ~</h1>
-      <h1>~ Test Conent #3 ~</h1>
+    <div className="flex flex-col text-cyan-500">
+      <span className="hover:text-cyan-700 hover:scale-105 transition underline decoration-double">~ Test Conent #1 ~</span>
+      <span className="hover:text-cyan-700 hover:scale-105 transition underline decoration-double">~ Test Conent #2 ~</span>
+      <span className="hover:text-cyan-700 hover:scale-105 transition underline decoration-double">~ Test Conent #3 ~</span>
     </div>
   );
 };

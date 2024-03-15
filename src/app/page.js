@@ -1,7 +1,8 @@
 import TitleBox from "./components/titlebox";
-import { League_Spartan } from "next/font/google";
+import { Basic, League_Spartan } from "next/font/google";
 import Navbar from "./components/navbar";
 import SocialBar from "./components/socialbar";
+import BasicHover from "./components/test";
 
 const league = League_Spartan({ subsets: ['latin'] })
 
